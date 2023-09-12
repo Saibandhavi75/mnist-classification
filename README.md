@@ -7,7 +7,7 @@ To Develop a convolutional deep neural network for digit classification and to v
 ## Problem Statement and Dataset
 
 ## Neural Network Model
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/mnist-classification/blob/main/3.png?raw=true)
 
 ## DESIGN STEPS
 
@@ -134,17 +134,17 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![output](?raw=true)
-
+![output](https://github.com/Saibandhavi75/mnist-classification/blob/main/31.png?raw=true)
+![output](https://github.com/Saibandhavi75/mnist-classification/blob/main/32.png?raw=true)
 ### Classification Report
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/mnist-classification/blob/main/33.png?raw=true)
 
 ### Confusion Matrix
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/mnist-classification/blob/main/34.png?raw=true)
 ### New Sample Data Prediction
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/mnist-classification/blob/main/35.png?raw=true)
 
 ## RESULT:
 Therefore a model has been successfully created for digit classification using mnist dataset.
