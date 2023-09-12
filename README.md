@@ -22,7 +22,7 @@ Write your own steps
 
 ## PROGRAM
 
-Include your code here
+
 
 ## OUTPUT
 
